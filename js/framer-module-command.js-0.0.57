@@ -1,0 +1,8 @@
+/*
+ * Command (phosphor-icons/Command@0.0.57)
+ *
+ * Learn More: https://www.framer.com/asset-urls
+ */
+
+export * from "../js/command.js"
+export { default } from "../js/command.js"
